@@ -1,0 +1,76 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Jolly Lodger
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012 by Font Diner, Inc (diner@fontdiner.com) with Reseved Font Name "Jolly Lodger"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Font Diner, Inc
+    Vendor url: http://www.fontdiner.com
+    Designer: Stuart Sandler
+    Designer url: http://www.fontdiner.com
+    Glyph count: 232
+    Character count: 231
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Jolly Lodger
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2012 by Font Diner, Inc (diner@fontdiner.com) with Reseved Font Name "Jolly Lodger"
+    License: This Font Software is licensed under the SIL Open Font License,
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.000
+    Vendor: Font Diner, Inc
+    Vendor url: http://www.fontdiner.com
+    Designer: Stuart Sandler
+    Designer url: http://www.fontdiner.com
+    Glyph count: 232
+    Character count: 231
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
